@@ -1,0 +1,28 @@
+// Route names for navigation
+export const ROUTES = {
+    SPLASH: 'Splash',
+    LOGIN: 'Login',
+    SIGNUP: 'Signup',
+    PHONE_VERIFICATION: 'PhoneVerification',
+    FORGOT_PASSWORD: 'ForgotPassword',
+    RESET_PASSWORD: 'ResetPassword',
+    HOME: 'Home',
+    PRODUCT_LIST: 'ProductList',
+    PRODUCT_DETAILS: 'ProductDetails',
+    CART: 'Cart',
+    WISHLIST: 'Wishlist',
+    CHECKOUT: 'Checkout',
+    ORDER_HISTORY: 'OrderHistory',
+    ORDER_DETAILS: 'OrderDetails',
+    ACCOUNT: 'Account',
+    CHANGE_PASSWORD: 'ChangePassword',
+    ADDRESS_LIST: 'AddressList',
+    ADDRESS_EDIT: 'AddressEdit',
+    STORE_LIST: 'StoreList',
+    STORE_DETAILS: 'StoreDetails',
+    CUSTOMER_SUPPORT: 'CustomerSupport',
+    TERMS_CONDITIONS: 'TermsAndConditions',
+    PRIVACY_POLICY: 'PrivacyPolicy',
+    ABOUT_US: 'AboutUs',
+  };
+  
